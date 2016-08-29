@@ -22,4 +22,3 @@ python resize_image.py example.jpg  -h <height> -w <width>
 ```sh
 python resize_image.py example.jpg  -o <output_name>
 ```
-
